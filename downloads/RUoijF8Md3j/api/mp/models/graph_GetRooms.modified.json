@@ -1,0 +1,100 @@
+{
+  "data" : {
+    "model" : {
+      "id" : "RUoijF8Md3j",
+      "rooms" : [ {
+        "id" : "tt6gm2a0463x9wmnx7rn6gugc",
+        "meshId" : 5,
+        "floor" : {
+          "id" : "tsmq1wak12rhgn0mawksxcwcd",
+          "meshId" : 0
+        },
+        "dimensions" : {
+          "height" : null,
+          "width" : 9.632511397094726,
+          "depth" : 9.07914717634201,
+          "areaFloor" : 93.5555115811348
+        },
+        "tags" : [ "living" ]
+      }, {
+        "id" : "f917tidwbm0",
+        "meshId" : null,
+        "floor" : {
+          "id" : "tsmq1wak12rhgn0mawksxcwcd",
+          "meshId" : 0
+        },
+        "dimensions" : null,
+        "tags" : [ ]
+      }, {
+        "id" : "3m54yff1z7crxaywd8if9rb0d",
+        "meshId" : 7,
+        "floor" : {
+          "id" : "tsmq1wak12rhgn0mawksxcwcd",
+          "meshId" : 0
+        },
+        "dimensions" : {
+          "height" : 7.480315106134414,
+          "width" : 7.505683844995499,
+          "depth" : 5.557363214259148,
+          "areaFloor" : 37.930907554912565
+        },
+        "tags" : [ "bathroom", "unfurnished" ]
+      }, {
+        "id" : "a5f9age4zzxewres6iqux2emc",
+        "meshId" : 9,
+        "floor" : {
+          "id" : "tsmq1wak12rhgn0mawksxcwcd",
+          "meshId" : 0
+        },
+        "dimensions" : {
+          "height" : 7.414698368711472,
+          "width" : null,
+          "depth" : null,
+          "areaFloor" : 21.183355785119534
+        },
+        "tags" : [ "bathroom" ]
+      }, {
+        "id" : "cdz3fkt38kae7tapstpt0eaeb",
+        "meshId" : 3,
+        "floor" : {
+          "id" : "tsmq1wak12rhgn0mawksxcwcd",
+          "meshId" : 0
+        },
+        "dimensions" : {
+          "height" : null,
+          "width" : 3.758422231545448,
+          "depth" : 9.232374140043259,
+          "areaFloor" : 129.44773949813842
+        },
+        "tags" : [ "bathroom" ]
+      }, {
+        "id" : "3gof2aq4e66",
+        "meshId" : null,
+        "floor" : {
+          "id" : "tsmq1wak12rhgn0mawksxcwcd",
+          "meshId" : 0
+        },
+        "dimensions" : null,
+        "tags" : [ ]
+      }, {
+        "id" : "rh9ga0bnov1",
+        "meshId" : null,
+        "floor" : {
+          "id" : "tsmq1wak12rhgn0mawksxcwcd",
+          "meshId" : 0
+        },
+        "dimensions" : null,
+        "tags" : [ ]
+      }, {
+        "id" : "23caq0inx6l",
+        "meshId" : null,
+        "floor" : {
+          "id" : "tsmq1wak12rhgn0mawksxcwcd",
+          "meshId" : 0
+        },
+        "dimensions" : null,
+        "tags" : [ ]
+      } ]
+    }
+  }
+}

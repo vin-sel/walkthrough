@@ -1,0 +1,121 @@
+{
+  "data" : {
+    "model" : {
+      "id" : "RUoijF8Md3j",
+      "name" : "Sophia Hills | 2 bed 2 bath | 721 sqft | Leashold ",
+      "visibility" : "public",
+      "discoverable" : true,
+      "state" : "active",
+      "image" : {
+        "id" : "mC83mDmgayE",
+        "label" : "Living Room",
+        "classification" : "Living Room",
+        "category" : "snapshot",
+        "height" : 1620,
+        "width" : 2880,
+        "created" : "2025-06-23T08:43:24Z",
+        "modified" : "2025-06-23T08:43:25Z",
+        "status" : "available",
+        "filename" : "Living-Room.jpg",
+        "format" : "image",
+        "url" : "https://cdn-2.matterport.com/apifs/models/RUoijF8Md3j/images/mC83mDmgayE/mC83mDmgayE-Living_Room.jpg?t=2-269c898557917813347c5e932ab3c46a96824864-1756158490-1",
+        "resolutions" : [ "icon", "thumbnail", "preview", "web", "presentation", "original" ],
+        "type" : "photo2D",
+        "origin" : "vision",
+        "validUntil" : "2025-08-25T21:48:10Z",
+        "thumbnailUrl" : "https://cdn-2.matterport.com/apifs/models/RUoijF8Md3j/images/mC83mDmgayE/mC83mDmgayE-Living_Room.jpg?t=2-269c898557917813347c5e932ab3c46a96824864-1756158490-1&width=200&height=140&fit=crop&disable=upscale",
+        "presentationUrl" : "https://cdn-2.matterport.com/apifs/models/RUoijF8Md3j/images/mC83mDmgayE/mC83mDmgayE-Living_Room.jpg?t=2-269c898557917813347c5e932ab3c46a96824864-1756158490-1&width=1920&height=1080&fit=crop&disable=upscale",
+        "snapshotLocation" : {
+          "viewMode" : "panorama",
+          "position" : {
+            "x" : 3.1654491424560547,
+            "y" : 0.5860637426376343,
+            "z" : 1.072161078453064
+          },
+          "rotation" : {
+            "x" : 0.5289881745622976,
+            "y" : -0.528988512592414,
+            "z" : 0.4692243654402702,
+            "w" : -0.46922436544027024
+          },
+          "zoom" : 1.0,
+          "floorVisibility" : [ ],
+          "anchor" : {
+            "id" : "n0nt6x40i4ka2i5du889b2yzb",
+            "pano" : {
+              "id" : "n0nt6x40i4ka2i5du889b2yzb",
+              "placement" : "auto"
+            }
+          }
+        }
+      },
+      "publication" : {
+        "address" : "9 Mount Sophia, SG",
+        "published" : true,
+        "lastPublished" : null,
+        "presentedBy" : "Propsuites ",
+        "summary" : "A cosy and well maintained 2 bedroom in Sophia Hills is available for sale. \nLocated in prime district 9, it is walking distance to Dhoby Ghaut MRT Interchange.\nSurrounded by shopping malls: Plaza Singapura, The Cathay, Bugis Junction and Orchard Malls \n\nIdeal for own stay or investment. \nReach out for more info. \n",
+        "description" : "",
+        "externalUrl" : "https://wa.me/6590092036",
+        "contact" : {
+          "name" : "Harold Ho ",
+          "email" : "harold.ho@hotmail.com",
+          "phoneNumber" : "+65 9009 2036 "
+        }
+      },
+      "options" : {
+        "urlBrandingEnabled" : true,
+        "socialSharingEnabled" : true,
+        "vrEnabled" : true
+      },
+      "assets" : {
+        "meshes" : [ {
+          "id" : "meshes/g9g0mgaxhthy03es2dcz32eza",
+          "status" : "available",
+          "filename" : "f36eba3eff77496d8ff2a54be4d1c3f4_50k.dam",
+          "format" : "dam",
+          "resolution" : "50k",
+          "url" : "https://cdn-2.matterport.com/models/768a5cdb6bc641ba9ca884f3cf487db1/assets/f36eba3eff77496d8ff2a54be4d1c3f4_50k.dam?t=2-92d72dd639cb6bc67786f0545a324ca7911f27a6-1756158490-1",
+          "validUntil" : "2025-08-25T21:48:10Z"
+        } ],
+        "textures" : [ {
+          "id" : "50k-high",
+          "status" : "available",
+          "format" : "jpg",
+          "resolution" : "50k",
+          "quality" : "high",
+          "urlTemplate" : "https://cdn-2.matterport.com/models/768a5cdb6bc641ba9ca884f3cf487db1/assets/~/f36eba3eff77496d8ff2a54be4d1c3f4_50k_texture_jpg_high/f36eba3eff77496d8ff2a54be4d1c3f4_50k_<texture>.jpg?t=2-6be7b02975b50fc134fbbf31d5615c04c9b54783-1756158490-0&k=models%2F768a5cdb6bc641ba9ca884f3cf487db1%2Fassets",
+          "validUntil" : "2025-08-25T21:48:10Z"
+        }, {
+          "id" : "50k-low",
+          "status" : "available",
+          "format" : "jpg",
+          "resolution" : "50k",
+          "quality" : "low",
+          "urlTemplate" : "https://cdn-2.matterport.com/models/768a5cdb6bc641ba9ca884f3cf487db1/assets/~/f36eba3eff77496d8ff2a54be4d1c3f4_50k_texture_jpg_low/f36eba3eff77496d8ff2a54be4d1c3f4_50k_<texture>.jpg?t=2-6be7b02975b50fc134fbbf31d5615c04c9b54783-1756158490-0&k=models%2F768a5cdb6bc641ba9ca884f3cf487db1%2Fassets",
+          "validUntil" : "2025-08-25T21:48:10Z"
+        } ],
+        "tilesets" : [ {
+          "status" : "available",
+          "tilesetVersion" : "1.2.0",
+          "url" : "https://cdn-2.matterport.com/models/768a5cdb6bc641ba9ca884f3cf487db1/assets/mesh_tiles/~/tileset.json?t=2-e1fbe42972a8cc130119768f1bcfcc5d23ed907e-1756158490-1&k=models%2F768a5cdb6bc641ba9ca884f3cf487db1%2Fassets%2Fmesh_tiles",
+          "urlTemplate" : "https://cdn-2.matterport.com/models/768a5cdb6bc641ba9ca884f3cf487db1/assets/mesh_tiles/~/<file>?t=2-e1fbe42972a8cc130119768f1bcfcc5d23ed907e-1756158490-1&k=models%2F768a5cdb6bc641ba9ca884f3cf487db1%2Fassets%2Fmesh_tiles",
+          "validUntil" : "2025-08-25T21:48:10Z",
+          "tilesetDepth" : 3,
+          "tilesetPreset" : "basic2"
+        } ]
+      },
+      "lod" : {
+        "options" : [ "lod2" ]
+      },
+      "overlayLayers" : [ ],
+      "baseView" : {
+        "model" : {
+          "id" : "RUoijF8Md3j"
+        }
+      },
+      "defurnishViews" : [ ],
+      "legacyBaseView" : null
+    }
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data" : {
+    "model" : {
+      "id" : "RUoijF8Md3j",
+      "mattertags" : [ {
+        "id" : "RW3yyimbMBv",
+        "label" : "Main Door ",
+        "description" : "Main Door",
+        "color" : "#03687d",
+        "enabled" : true,
+        "floor" : {
+          "id" : "tsmq1wak12rhgn0mawksxcwcd",
+          "meshId" : 0
+        },
+        "room" : {
+          "id" : "cdz3fkt38kae7tapstpt0eaeb",
+          "meshId" : 3
+        },
+        "layer" : {
+          "id" : "tmh543qm619566u0icn8y7iia"
+        },
+        "anchorPosition" : {
+          "x" : -0.8509522953042368,
+          "y" : -0.0748212841464427,
+          "z" : 1.4348353339226512
+        },
+        "stemEnabled" : true,
+        "stemNormal" : {
+          "x" : 0.99986800805162,
+          "y" : -0.016177801173756556,
+          "z" : 0.0014984071769322117
+        },
+        "stemLength" : 0.3048,
+        "media" : null,
+        "mediaType" : null,
+        "created" : "2025-06-23T13:45:29Z",
+        "modified" : "2025-06-23T13:45:29Z",
+        "externalAttachments" : [ ],
+        "fileAttachments" : [ ],
+        "objectAnnotation" : null,
+        "keywords" : [ ],
+        "icon" : null
+      }, {
+        "id" : "o6z7zSYOe4c",
+        "label" : "Enclose Washer",
+        "description" : "Washing Machine (Enclosed)",
+        "color" : "#03687d",
+        "enabled" : true,
+        "floor" : {
+          "id" : "tsmq1wak12rhgn0mawksxcwcd",
+          "meshId" : 0
+        },
+        "room" : {
+          "id" : "cdz3fkt38kae7tapstpt0eaeb",
+          "meshId" : 3
+        },
+        "layer" : {
+          "id" : "tmh543qm619566u0icn8y7iia"
+        },
+        "anchorPosition" : {
+          "x" : 1.082466318936028,
+          "y" : 1.5999979246418106,
+          "z" : 0.46470862137674396
+        },
+        "stemEnabled" : true,
+        "stemNormal" : {
+          "x" : -0.005560471656135677,
+          "y" : -0.9998968038257556,
+          "z" : -0.013246239239868864
+        },
+        "stemLength" : 0.3048,
+        "media" : null,
+        "mediaType" : null,
+        "created" : "2025-06-23T13:43:49Z",
+        "modified" : "2025-06-23T13:43:49Z",
+        "externalAttachments" : [ ],
+        "fileAttachments" : [ ],
+        "objectAnnotation" : null,
+        "keywords" : [ ],
+        "icon" : null
+      }, {
+        "id" : "rBt5QOeqSQ2",
+        "label" : "Enclosed DB Box and Shoe Rack ",
+        "description" : "Consist of: \n- Fiber optic plugin \n- Circuit breaker \n- Shoe rack",
+        "color" : "#03687d",
+        "enabled" : true,
+        "floor" : {
+          "id" : "tsmq1wak12rhgn0mawksxcwcd",
+          "meshId" : 0
+        },
+        "room" : {
+          "id" : "cdz3fkt38kae7tapstpt0eaeb",
+          "meshId" : 3
+        },
+        "layer" : {
+          "id" : "tmh543qm619566u0icn8y7iia"
+        },
+        "anchorPosition" : {
+          "x" : -0.45708451646729725,
+          "y" : 0.8598201625099864,
+          "z" : 1.3068837514036662
+        },
+        "stemEnabled" : true,
+        "stemNormal" : {
+          "x" : 0.012929699211198938,
+          "y" : -0.9998994602830389,
+          "z" : 0.005821701125571362
+        },
+        "stemLength" : 0.3048,
+        "media" : null,
+        "mediaType" : null,
+        "created" : "2025-06-23T13:43:04Z",
+        "modified" : "2025-06-23T13:43:04Z",
+        "externalAttachments" : [ ],
+        "fileAttachments" : [ ],
+        "objectAnnotation" : null,
+        "keywords" : [ ],
+        "icon" : null
+      } ],
+      "orderedLists" : [ ],
+      "labels" : [ ],
+      "measurementPaths" : [ ],
+      "activeHighlightReel" : null,
+      "image" : {
+        "id" : "mC83mDmgayE",
+        "label" : "Living Room",
+        "classification" : "Living Room",
+        "category" : "snapshot",
+        "height" : 1620,
+        "width" : 2880,
+        "created" : "2025-06-23T08:43:24Z",
+        "modified" : "2025-06-23T08:43:25Z",
+        "status" : "available",
+        "filename" : "Living-Room.jpg",
+        "format" : "image",
+        "url" : "https://cdn-2.matterport.com/apifs/models/RUoijF8Md3j/images/mC83mDmgayE/mC83mDmgayE-Living_Room.jpg?t=2-269c898557917813347c5e932ab3c46a96824864-1756158490-1",
+        "resolutions" : [ "icon", "thumbnail", "preview", "web", "presentation", "original" ],
+        "type" : "photo2D",
+        "origin" : "vision",
+        "validUntil":"2099-01-01T21:48:10Z",
+        "thumbnailUrl" : "https://cdn-2.matterport.com/apifs/models/RUoijF8Md3j/images/mC83mDmgayE/mC83mDmgayE-Living_Room.jpg?t=2-269c898557917813347c5e932ab3c46a96824864-1756158490-1&width=200&height=140&fit=crop&disable=upscale",
+        "presentationUrl" : "https://cdn-2.matterport.com/apifs/models/RUoijF8Md3j/images/mC83mDmgayE/mC83mDmgayE-Living_Room.jpg?t=2-269c898557917813347c5e932ab3c46a96824864-1756158490-1&width=1920&height=1080&fit=crop&disable=upscale",
+        "snapshotLocation" : {
+          "viewMode" : "panorama",
+          "position" : {
+            "x" : 3.1654491424560547,
+            "y" : 0.5860637426376343,
+            "z" : 1.072161078453064
+          },
+          "rotation" : {
+            "x" : 0.5289881745622976,
+            "y" : -0.528988512592414,
+            "z" : 0.4692243654402702,
+            "w" : -0.46922436544027024
+          },
+          "zoom" : 1.0,
+          "floorVisibility" : [ ],
+          "anchor" : {
+            "id" : "n0nt6x40i4ka2i5du889b2yzb",
+            "pano" : {
+              "id" : "n0nt6x40i4ka2i5du889b2yzb",
+              "placement" : "auto"
+            }
+          }
+        }
+      }
+    },
+    "view" : {
+      "layers" : [ {
+        "layer" : {
+          "id" : "tmh543qm619566u0icn8y7iia",
+          "created" : "2025-06-23T08:43:26Z",
+          "modified" : "2025-06-23T13:45:29Z",
+          "type" : "matterport.user.data",
+          "name" : "matterport.user.data",
+          "label" : ""
+        },
+        "position" : 0,
+        "visible" : true
+      }, {
+        "layer" : {
+          "id" : "4ip48sdyr7xag48zg5ichptza",
+          "created" : "2025-06-23T13:26:52Z",
+          "modified" : "2025-06-23T13:37:12Z",
+          "type" : "matterport.proxy.common",
+          "name" : "matterport.proxy.common",
+          "label" : "proxy-aaaaaaaaaaaaaaaaaaaaaaaaa"
+        },
+        "position" : 1,
+        "visible" : true
+      }, {
+        "layer" : {
+          "id" : "aaaaaaaaaaaaaaaaaaaaaaaaa",
+          "created" : "2025-06-23T08:10:26Z",
+          "modified" : "2025-08-10T04:58:26Z",
+          "type" : "matterport.base",
+          "name" : null,
+          "label" : ""
+        },
+        "position" : 2,
+        "visible" : true
+      } ]
+    }
+  }
+}
