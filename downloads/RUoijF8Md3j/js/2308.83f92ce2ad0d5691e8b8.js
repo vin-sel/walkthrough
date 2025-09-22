@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmp_webgl=self.webpackChunkmp_webgl||[]).push([[2308],{62308:(e,s,p)=>{e.exports=p.p+"images/logo-icon-black.svg"}}]);

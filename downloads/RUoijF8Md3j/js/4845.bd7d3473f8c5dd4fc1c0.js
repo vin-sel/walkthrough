@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmp_webgl=self.webpackChunkmp_webgl||[]).push([[4845],{34845:(e,s,p)=>{e.exports=p.p+"images/apartments-logo-white-r.svg"}}]);
